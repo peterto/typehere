@@ -1,0 +1,7 @@
+version: "3.8"
+services:
+  typehere:
+    image: typehere
+    ports: 
+      - 5233:80
+    restart: unless-stopped

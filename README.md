@@ -1,3 +1,5 @@
+### Dockerizes this application, change the port to something you aren't using for something else in the docker-compose.yml file
+
 ### [typehere.cc](https://typehere.cc/)
 
 Clone of [typehere.co](http://typehere.co/) which is no longer available.
